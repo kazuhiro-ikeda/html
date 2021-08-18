@@ -1,10 +1,6 @@
 /* Author : Kazuhiro Ikeda */
 
 $(function(){
-
-
-	$('').matchHeight();
-
 	//pagetop
 	var topBtn = $('#btn_top');
 	topBtn.hide();
